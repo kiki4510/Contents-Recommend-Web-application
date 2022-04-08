@@ -1,4 +1,4 @@
-# OTT-Contents-Recommend-Web-application
+# Contents-Recommend-Web-application
 OTT platform Contents Recommendation
 * 셀레니움을 이용해서 OTT 사이트 별 컨텐츠와 장르 크롤링
 * SQLITE로 데이터 DB화 > DB화 시킨 데이터 사용 불가
