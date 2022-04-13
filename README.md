@@ -10,5 +10,6 @@ OTT platform Contents Recommendation
 * SQLITE로 데이터 DB화 > DB화 시킨 데이터 사용 불가
 * Movie Ratings Data로 추천 모델 생성(추천 비추천 일종의 이진분류모델)
 * 타이틀과 장르 기입시 추천,비추천으로 결과 도출하는 웹어플리케이션(by FLASK)
+* metabase를 이용한 시각화
 ### 보완 필요사항
 * 크롤링 데이터를 이용한 검색 어플리케이션으로의 개선 필요/ 자체 모델의 성능 개선 필요
